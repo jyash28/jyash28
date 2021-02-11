@@ -21,5 +21,5 @@
 -  I’m currently working on Python,Django etc.
 -  I’m currently learning Full Stack Development .
 -  How to reach me: jyash548@gmail.com 
--  I have worked on HTML/CSS, Javascript MySQL etc.
+-  I have worked on HTML/CSS,Bootstrap, Javascript MySQL etc.
 -  Ask me about anything! I am happy to help and guide you.
